@@ -630,4 +630,22 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ido/proprietary/etc/firmware/goodixfp.mdt:system/etc/firmware/goodixfp.mdt \
     vendor/xiaomi/ido/proprietary/etc/firmware/ice40.bin:system/etc/firmware/ice40.bin \
     vendor/xiaomi/ido/proprietary/etc/firmware/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
-    vendor/xiaomi/ido/proprietary/etc/firmware/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw
+    vendor/xiaomi/ido/proprietary/etc/firmware/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw \
+    vendor/xiaomi/ido/proprietary/lib/modules/pronto/pronto_wlan.ko:system/lib/modules/pronto/pronto_wlan.ko \
+    vendor/xiaomi/ido/proprietary/lib/modules/ansi_cprng.ko:system/lib/modules/ansi_cprng.ko \
+    vendor/xiaomi/ido/proprietary/lib/modules/core_ctl.ko:system/lib/modules/core_ctl.ko \
+    vendor/xiaomi/ido/proprietary/lib/modules/evbug.ko:system/lib/modules/evbug.ko \
+    vendor/xiaomi/ido/proprietary/lib/modules/gpio_axis.ko:system/lib/modules/gpio_axis.ko \
+    vendor/xiaomi/ido/proprietary/lib/modules/gpio_event.ko:system/lib/modules/gpio_event.ko \
+    vendor/xiaomi/ido/proprietary/lib/modules/gpio_input.ko:system/lib/modules/gpio_input.ko \
+    vendor/xiaomi/ido/proprietary/lib/modules/gpio_matrix.ko:system/lib/modules/gpio_matrix.ko \
+    vendor/xiaomi/ido/proprietary/lib/modules/gpio_output.ko:system/lib/modules/gpio_output.ko \
+    vendor/xiaomi/ido/proprietary/lib/modules/gspca_main.ko:system/lib/modules/gspca_main.ko \
+    vendor/xiaomi/ido/proprietary/lib/modules/mcDrvModule.ko:system/lib/modules/mcDrvModule.ko \
+    vendor/xiaomi/ido/proprietary/lib/modules/mcKernelApi.ko:system/lib/modules/mcKernelApi.ko \
+    vendor/xiaomi/ido/proprietary/lib/modules/mmc_block_test.ko:system/lib/modules/mmc_block_test.ko \
+    vendor/xiaomi/ido/proprietary/lib/modules/mmc_test.ko:system/lib/modules/mmc_test.ko \
+    vendor/xiaomi/ido/proprietary/lib/modules/radio-iris-transport.ko:system/lib/modules/radio-iris-transport.ko \
+    vendor/xiaomi/ido/proprietary/lib/modules/spidev.ko:system/lib/modules/spidev.ko \
+    vendor/xiaomi/ido/proprietary/lib/modules/test-iosched.ko:system/lib/modules/test-iosched.ko \
+    vendor/xiaomi/ido/proprietary/lib/modules/wlan.ko:system/lib/modules/wlan.ko
